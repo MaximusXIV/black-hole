@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maximus Creates a Website"
+title: "Maximus Creates A Website"
 date: 2017-03-07
 ---
 
